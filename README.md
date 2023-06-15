@@ -37,7 +37,7 @@ The next visualization is a boxplot of the LogP values. LogP is a measure of the
 ### Scatterplot of LogP vs. Exact Molecular Weight
 
 The script then creates a scatterplot to compare LogP with the exact molecular weight. This plot visualizes the relationship between these two variables and helps identify any potential correlations or patterns.
-<img width="385" alt="Scatterplot of Ring Count and TPSA" src="https://github.com/thiagolealg/rcsb_pdb_molecule_analysis/assets/113521516/27539289-fbd5-42ad-84e9-8ebb37a04350">
+<img width="397" alt="Scatterplot of LogP vs exact molecular weight" src="https://github.com/thiagolealg/rcsb_pdb_molecule_analysis/assets/113521516/96fa9eb1-0a62-4a89-8a5e-60cf562b7dc3">
 
 ### Density Plot of LogP
 
@@ -56,7 +56,7 @@ The script creates another histogram, this time specifically for LogP values. It
 ### Scatterplot of Ring Count and TPSA
 
 The scatterplot compares the ring count and TPSA (Topological Polar Surface Area). It helps visualize any relationship or clustering patterns between these two variables.
-<img width="397" alt="Scatterplot of LogP vs exact molecular weight" src="https://github.com/thiagolealg/rcsb_pdb_molecule_analysis/assets/113521516/96fa9eb1-0a62-4a89-8a5e-60cf562b7dc3">
+<img width="385" alt="Scatterplot of Ring Count and TPSA" src="https://github.com/thiagolealg/rcsb_pdb_molecule_analysis/assets/113521516/27539289-fbd5-42ad-84e9-8ebb37a04350">
 
 ### Boxplot of Exact Molecular Weight
 
